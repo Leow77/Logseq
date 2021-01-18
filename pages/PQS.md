@@ -7,9 +7,8 @@ title: PQS
 #### Git
 #### Linux
 #### Vscode
-     -  [[Vscode教程]]
-  -  Pycharm
-  -  Jupyterbook
+#### Pycharm
+#### Jupyterbook
 
 - 语法学习
 
