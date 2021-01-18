@@ -9,11 +9,8 @@ title: PQS
 #### Vscode
 #### Pycharm
 #### Jupyterbook
-
-- 语法学习
-
-  - [[Python基础语法]]
-  - Python Syntax Roles 基础语法
+### 语法学习
+#### Python Syntax Roles 基础语法
     - 语法和编程规范
     - 数据类型和变量
       - 类型
