@@ -4,10 +4,9 @@ title: PQS
 
 ## Python
 ### 环境搭建
-
-  -  Git
-  -  Linux
-  -  Vscode
+#### Git
+#### Linux
+#### Vscode
      -  [[Vscode教程]]
   -  Pycharm
   -  Jupyterbook
