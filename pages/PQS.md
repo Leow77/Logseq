@@ -3,7 +3,7 @@ title: PQS
 ---
 
 ## Python
-### - 环境搭建
+### 环境搭建
 
   -  Git
   -  Linux
